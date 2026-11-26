@@ -4,17 +4,6 @@ Fondo de Longevix para Claude Code Desktop, para el equipo de Longevix. Pone el 
 
 El logo se repite en tamaño chico para que se vea entero aunque la lista de sesiones, los paneles o el chat tapen partes de la ventana.
 
-Repositorio privado: solo pueden instalarlo las personas con acceso en GitHub.
-
-## Antes de instalar
-
-1. Pedile a Geronimo que te invite al repositorio `Geronimo-Bassi/fondo-longevix` y aceptá la invitación que llega por mail o en GitHub.
-2. Tené GitHub configurado en tu computadora, para que Claude Code pueda descargar un repositorio privado. Lo más simple es instalar GitHub CLI y correr:
-
-   ```
-   gh auth login
-   ```
-
 ## Instalar
 
 En una sesión de Claude Code:
