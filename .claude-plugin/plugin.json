@@ -1,0 +1,7 @@
+{
+  "name": "fondo-longevix",
+  "version": "0.1.0",
+  "description": "Fondo de Longevix para Claude Code Desktop: el logo repetido en gris suave, colores de la app a tono en modo claro y oscuro, y /longevix para prenderlo o apagarlo",
+  "author": { "name": "Geronimo-Bassi" },
+  "types": "./types/index.d.ts"
+}

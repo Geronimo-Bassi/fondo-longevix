@@ -1,0 +1,6 @@
+{
+  "name": "fondo-longevix",
+  "owner": { "name": "Geronimo-Bassi" },
+  "metadata": { "description": "Fondo de Longevix para Claude Code Desktop, para el equipo de Longevix" },
+  "plugins": [{ "name": "fondo-longevix", "source": "./" }]
+}
